@@ -5,8 +5,8 @@ this is our first change and change and eit test asdasdsdasdasd
 this is our new chnage this sdassaasasdasdasaasd
 testassdad
 this is my first upate hi this is my first update
-hello how are you
-hi
+hello
+hi hello
 hello world
 this is my final repo adsadad
 this is the update
